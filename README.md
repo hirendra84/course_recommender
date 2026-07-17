@@ -1,5 +1,7 @@
 # Personalized Course Recommender System
 
+🌟 **Live Demo:** [Access the Recommender App Here!](https://smartcourse-chooser.streamlit.app/)
+
 This repository contains the complete implementation of a **Personalized Course Recommender App**, built as part of the Machine Learning Capstone Project (e.g., for the IBM Data Science Professional Certificate).
 
 The application is built using Python and Streamlit, providing an interactive web interface where users can select various machine learning models, tune hyperparameters, and receive dynamic course recommendations.
