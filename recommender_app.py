@@ -249,7 +249,7 @@ st.sidebar.title('Personalized Learning Recommender')
 selected_courses_df = init_recommender_app()
 
 # Link to Github
-st.sidebar.markdown('For more information, please check the [Github repository](https://github.com/mxagar/course_recommender_streamlit).')
+st.sidebar.markdown('For more information, please check my GitHub repository.')
 
 # Model selection selectbox: Element 1 from sidebar
 st.sidebar.subheader('1. Select recommendation models')
